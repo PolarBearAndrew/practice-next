@@ -1,0 +1,27 @@
+{
+  "name": "practice-next",
+  "version": "1.0.0",
+  "description": "a little practice for Next.js 2",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^2.1.0",
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolarBearAndrew/practice-next.git"
+  },
+  "author": "AndrewChen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PolarBearAndrew/practice-next/issues"
+  },
+  "homepage": "https://github.com/PolarBearAndrew/practice-next#readme"
+}
