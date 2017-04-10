@@ -4,7 +4,13 @@
   "description": "a little practice for Next.js 2",
   "main": "index.js",
   "dependencies": {
+    "dgram": "^1.0.1",
+    "dns": "^0.2.2",
+    "fetch": "^1.1.0",
+    "fs": "0.0.1-security",
+    "net": "^1.0.2",
     "next": "^2.1.0",
+    "prop-types": "^15.5.6",
     "react": "^15.5.3",
     "react-dom": "^15.5.3"
   },
